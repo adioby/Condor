@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorArrierePlan">#226C03</color>
+    <color name="colorIcone">#DD0A35</color>
+
+    <color name="colorPrimary">#226C03</color>
+    <color name="colorPrimaryVariant">#DD0A35</color>
+
+    <color name="colorPrimaryDark">#DD0A35</color>
+    <color name="colorAccent">#370083</color>
+
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorBlack">#FF000000</color>
+    <color name="colorPurple">#4A148C</color>
+</resources>

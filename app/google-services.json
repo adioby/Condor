@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724095895010",
+    "project_id": "condor-393ed",
+    "storage_bucket": "condor-393ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724095895010:android:792e53c913810e411de5bb",
+        "android_client_info": {
+          "package_name": "com.example.mycondor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724095895010-ti6e8i6gq11nuc5s82jqism3aokddstj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZnCRcL3TBondHhvVgOU3UOvM90ONH4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724095895010-ti6e8i6gq11nuc5s82jqism3aokddstj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
